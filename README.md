@@ -9,10 +9,10 @@
     
     
   # Table of Contents 
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[Tests](#test)
-  *[License](#license)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Tests](#test)
+  * [License](#license)
 
    
   # Installation
