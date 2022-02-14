@@ -10,11 +10,9 @@
     
   # Table of Contents 
   * [Installation](#installation)
-  *[Usage](#usage)
+  * [Usage](#usage)
   * [Tests](#test)
   * [License](#license)
-  *[User Email] (#userEmail)
-  * [Questions] (#questions)
    
    # Installation
    In order to run this application you will need to install the following depedencies inquirer, util, fs.
